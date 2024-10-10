@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/user-attachments/assets/6cbaec82-67ab-45ee-b6dc-36096e98d02e" width="800"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/4c18a14f-3859-4fcc-ae80-d1d8eb7e52d0" width="800"/>
 </div>
 <div id="contact" align="center">
   <a href="https://www.linkedin.com/in/juan-esteban-macias-balboa-7567ab223/"><img decoding="async" src="https://github.com/user-attachments/assets/1afa88ee-eb94-40a1-b2e4-c503896e0e17" width="50"> </a>
